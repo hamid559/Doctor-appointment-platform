@@ -162,10 +162,10 @@ This project was both challenging and rewarding, pushing my skills in state mana
 
 ## **Contact Information**
 
-- **Author:** [Mahmoud Mansy](https://github.com/MMansy19)
-- **Portfolio:** [My Portfolio](https://mahmoud-mansy-portfolio.netlify.app/)
-- **Email:** [mahmoud2abdalfattah@gmail.com](mailto:mahmoud2abdalfattah@gmail.com)
-- **LinkedIn:** [Mahmoud Mansy](https://www.linkedin.com/in/mahmoud-mansy-a189a5232)
+- Author: Md Hamid   
+- Email: mdhamid8320@gmail.com  
+- LinkedIn: [Md Hamid](https://www.linkedin.com/in/mdhamid801/)  
+
 
 ---
 
